@@ -9,6 +9,10 @@ A full c++ based ros2 package to merge several laserscan / lidars topics by crea
 4. RQT
 5. [Pointcloud to Laserscan](https://github.com/ros-perception/pointcloud_to_laserscan)
 
+## Note
+
+Currently not working!
+
 ## How to use 
 1. Clone the repo to your ros2 workspace
 ```bash
